@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently pursuing my B.Tech (hons.) in CSE at RV University
+- 🌱 I’m currently pursuing my B.Tech (hons.) in CSE at RV University
 
 <!--
 **AnisHerdev/AnisHerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
